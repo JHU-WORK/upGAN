@@ -1,0 +1,4 @@
+Mean MSE: 0.0029
+Mean PSNR: 25.5998
+Mean SSIM: 0.9998
+Mean IFC: 0.0007
